@@ -1,0 +1,27 @@
+﻿  Source.cpp
+C:\Users\Max\source\repos\SPACE\SPACE\Content.h(21,42): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\Content.h(21,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\view.h(20,17): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\view.h(24,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\view.h(28,18): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\view.h(31,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(49,15): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(72,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(72,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(78,28): warning C4305: =: усечение из "double" в "float"
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(79,26): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(85,29): warning C4305: =: усечение из "double" в "float"
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(86,26): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(92,28): warning C4305: =: усечение из "double" в "float"
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(93,26): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(100,28): warning C4305: =: усечение из "double" в "float"
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(101,26): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  SPACE.vcxproj -> C:\Users\Max\source\repos\SPACE\x64\Debug\SPACE.exe
